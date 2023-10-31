@@ -1,13 +1,13 @@
  
 <h2 align="center">Hi 👋! My Name Is Om Bharsakle.</h2>
 <div align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGKHYmniPlTwvhwgvhMqUqna7Dhbj6k7d7BzQIScW7tu3a3MfHp3cJnapaCdNrZatIjO9xuoq7Q83pSFB3NwIL6qFf3mV5o1D2lRWEnfzJTmBAoieMG1AIFwI90EFsCyhu_5wAnNdgUdvRt4DlCucs7xKmM8LYwQfX6LK7RmxPH4i9SFgZ-fJYOlr8bZs/s16000/Purple%20Modern%20Professional%20Web%20Designer%20LinkedIn%20Banner.webp" height="150px" width="75%" alt="stats graph"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGKHYmniPlTwvhwgvhMqUqna7Dhbj6k7d7BzQIScW7tu3a3MfHp3cJnapaCdNrZatIjO9xuoq7Q83pSFB3NwIL6qFf3mV5o1D2lRWEnfzJTmBAoieMG1AIFwI90EFsCyhu_5wAnNdgUdvRt4DlCucs7xKmM8LYwQfX6LK7RmxPH4i9SFgZ-fJYOlr8bZs/s16000/Purple%20Modern%20Professional%20Web%20Designer%20LinkedIn%20Banner.webp" height="180px" width="77%" alt="stats graph"/>
     
 </div>
 
 ###
 
-<h3 align="center">I'm a Full Stack And Flutter Developer from Surat.</h3>
+
 
 ###
 
