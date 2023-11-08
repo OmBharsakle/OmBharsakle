@@ -52,9 +52,9 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
+  <img width="15" />
    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg" height="28" alt="google logo"  />
-  <img width="12" />
+  <img width="15" />
    <img src="https://zeevector.com/wp-content/uploads/TCS-Logo-symbol.png" height="28" alt="google logo"  />
 </div>
 
