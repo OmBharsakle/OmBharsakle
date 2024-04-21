@@ -80,7 +80,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ombharsakle&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MauryaAayush&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
